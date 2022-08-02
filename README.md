@@ -1,7 +1,7 @@
 ### <h2 align="center">Vinay Kumar &nbsp;<small><small>aka</small></small> &nbsp;n4ryn</h2>
 
 <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hello There!</div>
+Hello There! Welcome to my Github profile!</div>
 
 I'm Vinay. A final year student pursuing Bachelors's in Computer Science 🎓. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Also I'm currently into Full stack Development 🕸️.
   
