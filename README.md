@@ -39,11 +39,15 @@ I'm Vinay. A final year student pursuing Bachelors's in Computer Science 🎓. I
 
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b> 
 
-<p align="left"> 
 
-<a  href="https://github.com/n4ryn/"> <img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=gruvbox&hide_border=true" /> 
+<p align="left">
 
-<img  width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=n4ryn&theme=gruvbox&hide_border=true" /> </a> 
+<a  href="https://github.com/n4ryn">
+
+<img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=gruvbox&hide_border=true" />
+<img  width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=n4ryn&theme=gruvbox&hide_border=true" />
+
+</a>
 
 </p>
 
