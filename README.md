@@ -16,20 +16,23 @@ I'm a <strong>Student</strong> and <strong>Developer</strong> who is ✨ passion
 
 <br>
 
-```python
-class  n4ryn():
-	def  __init__(self):
-		self.name =  "Vinay Kumar"
-		self.username =  "n4ryn"
-		self.location =  "Jaipur, India"
-		self.hobbies =  ["Music Production",  "Fingere Drumming"]
-		self.web =  "https://n4ryn.com"
-	
-	def  __str__(self):
-		return self.name
 
-if __name__ ==  '__main__':
-	me = n4ryn()
+```python
+
+class n4ryn():
+    
+  def __init__(self):
+    self.name = "Vinay Kumar"
+    self.username = "n4ryn"
+    self.location = "Jaipur, India"
+    self.hobbies = ["Music Production",  "Fingere Drumming"]
+    self.web = "https://n4ryn.com"
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = n4ryn()
 ```
 
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -44,19 +47,19 @@ if __name__ ==  '__main__':
 
 <b>Languages:<b/> 
 
-![python](https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=BE91F2) ![HTML5](https://img.shields.io/badge/html5-1A1B27?style=for-the-badge&logo=html5&logoColor=BE91F2) ![CSS3](https://img.shields.io/badge/css3-1A1B27?style=for-the-badge&logo=css3&logoColor=BE91F2) ![javascript](https://img.shields.io/badge/javascript-1A1B27?&style=for-the-badge&logo=javascript&logoColor=BE91F2) ![nodejs](https://img.shields.io/badge/node.js-1A1B27?&style=for-the-badge&logo=node.js&logoColor=BE91F2) ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-1A1B27?style=for-the-badge&logo=database&logoColor=BE91F2) ![C](https://img.shields.io/badge/C-1A1B27?style=for-the-badge&logo=c&logoColor=BE91F2)
+![python](https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=F9BC2F) ![HTML5](https://img.shields.io/badge/html5-282828?style=for-the-badge&logo=html5&logoColor=F9BC2F) ![CSS3](https://img.shields.io/badge/css3-282828?style=for-the-badge&logo=css3&logoColor=F9BC2F) ![javascript](https://img.shields.io/badge/javascript-282828?&style=for-the-badge&logo=javascript&logoColor=F9BC2F) ![nodejs](https://img.shields.io/badge/node.js-282828?&style=for-the-badge&logo=node.js&logoColor=F9BC2F) ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-282828?style=for-the-badge&logo=database&logoColor=F9BC2F) ![C](https://img.shields.io/badge/C-282828?style=for-the-badge&logo=c&logoColor=F9BC2F)
 
 <b>Libraries / Frameworks:</b> 
 
-![Reactjs](https://img.shields.io/badge/react-1A1B27?&style=for-the-badge&logo=react&logoColor=BE91F2) ![Express](https://img.shields.io/badge/Express.js-1A1B27?style=for-the-badge&logo=express&logoColor=BE91F2) ![NPM](https://img.shields.io/badge/npm-1A1B27?style=for-the-badge&logo=npm&logoColor=BE91F2) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-1A1B27?style=for-the-badge&logo=tailwind-css&logoColor=BE91F2)
+![Reactjs](https://img.shields.io/badge/react-282828?&style=for-the-badge&logo=react&logoColor=F9BC2F) ![Express](https://img.shields.io/badge/Express.js-282828?style=for-the-badge&logo=express&logoColor=F9BC2F) ![NPM](https://img.shields.io/badge/npm-282828?style=for-the-badge&logo=npm&logoColor=F9BC2F) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-282828?style=for-the-badge&logo=tailwind-css&logoColor=F9BC2F)
 
 <b>Databases:</b> 
 
-![MongoDB](https://img.shields.io/badge/MongoDB-1A1B27?&style=for-the-badge&logo=mongodb&logoColor=BE91F2) ![MySQL](https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&logo=mysql&logoColor=BE91F2) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=BE91F2)
+![MongoDB](https://img.shields.io/badge/MongoDB-282828?&style=for-the-badge&logo=mongodb&logoColor=F9BC2F) ![MySQL](https://img.shields.io/badge/MySQL-282828?style=for-the-badge&logo=mysql&logoColor=F9BC2F) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282828?style=for-the-badge&logo=postgresql&logoColor=F9BC2F)
 
 <b>Application and Tools:</b> 
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1A1B27?style=for-the-badge&logo=visual-studio-code&logoColor=BE91F2) ![Git](https://img.shields.io/badge/git-1A1B27?style=for-the-badge&logo=git&logoColor=BE91F2) ![postman](https://img.shields.io/badge/Postman-1A1B27?style=for-the-badge&logo=Postman&logoColor=BE91F2) ![Linux](https://img.shields.io/badge/Linux-1A1B27?style=for-the-badge&logo=linux&logoColor=BE91F2) ![Figma](https://img.shields.io/badge/Figma-1A1B27?style=for-the-badge&logo=figma&logoColor=BE91F2) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-1A1B27?style=for-the-badge&logo=Adobe%20XD&logoColor=BE91F2)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-282828?style=for-the-badge&logo=visual-studio-code&logoColor=F9BC2F) ![Git](https://img.shields.io/badge/git-282828?style=for-the-badge&logo=git&logoColor=F9BC2F) ![postman](https://img.shields.io/badge/Postman-282828?style=for-the-badge&logo=Postman&logoColor=F9BC2F) ![Linux](https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=F9BC2F) ![Figma](https://img.shields.io/badge/Figma-282828?style=for-the-badge&logo=figma&logoColor=F9BC2F) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-282828?style=for-the-badge&logo=Adobe%20XD&logoColor=F9BC2F)
 </p>
 
 
@@ -72,8 +75,8 @@ if __name__ ==  '__main__':
 
 <a  href="https://github.com/n4ryn">
 
-<img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=tokyonight&hide_border=true" />
-<img  width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=n4ryn&theme=tokyonight&hide_border=true" />
+<img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=gruvbox&hide_border=true" />
+<img  width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=n4ryn&theme=gruvbox&hide_border=true" />
 
 </a>
 
@@ -81,7 +84,7 @@ if __name__ ==  '__main__':
 
 <p align="center">
 
-<a  href="https://github.com/n4ryn"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n4ryn&theme=tokyonight&hide_border=true"  width="100%"  alt="Vinay Kumar"/></a>
+<a  href="https://github.com/n4ryn"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n4ryn&theme=gruvbox&hide_border=true"  width="100%"  alt="Vinay Kumar"/></a>
 
 </p>
 
@@ -96,13 +99,12 @@ if __name__ ==  '__main__':
 <br>
   
 <p align = "center">
-<a  href="https://www.discord.com/users/709491555072868413/"  target="_blank"> <img  src="https://img.shields.io/badge/Discord-1A1B27?&style=for-the-badge&logo=discord&logoColor=BE91F2"  t=instagram  style="margin-bottom: 5px;" />  </a>
-<a  href="https://www.instagram.com/n4ryn._/"  target="_blank">  <img  src="https://img.shields.io/badge/instagram-1A1B27?&style=for-the-badge&logo=instagram&logoColor=BE91F2"  t=instagram  style="margin-bottom: 5px;" />  </a>
-<a  href="https://www.twitter.com/n4ryn_"  target="_blank">  <img  src="https://img.shields.io/badge/twitter-1A1B27?&style=for-the-badge&logo=twitter&logoColor=BE91F2"  style="margin-bottom: 5px;" />  </a>
-<a  href="https://linkedin.com/in/n4ryn"  target="_blank">  <img  src="https://img.shields.io/badge/linkedin-1A1B27?&style=for-the-badge&logo=linkedin&logoColor=BE91F2"  style="margin-bottom: 5px;" />  </a>
+<a  href="https://www.discord.com/users/709491555072868413/"  target="_blank"> <img  src="https://img.shields.io/badge/Discord-282828?&style=for-the-badge&logo=discord&logoColor=F9BC2F"  t=instagram  style="margin-bottom: 5px;" />  </a>
+<a  href="https://www.instagram.com/n4ryn._/"  target="_blank">  <img  src="https://img.shields.io/badge/instagram-282828?&style=for-the-badge&logo=instagram&logoColor=F9BC2F"  t=instagram  style="margin-bottom: 5px;" />  </a>
+<a  href="https://www.twitter.com/n4ryn_"  target="_blank">  <img  src="https://img.shields.io/badge/twitter-282828?&style=for-the-badge&logo=twitter&logoColor=F9BC2F"  style="margin-bottom: 5px;" />  </a>
+<a  href="https://linkedin.com/in/n4ryn"  target="_blank">  <img  src="https://img.shields.io/badge/linkedin-282828?&style=for-the-badge&logo=linkedin&logoColor=F9BC2F"  style="margin-bottom: 5px;" />  </a>
 </p>
 
-<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--
 
