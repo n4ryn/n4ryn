@@ -1,4 +1,4 @@
-<h3 align="center">Hello there, &nbsp;I’m Vinay Kumar &nbsp;<small>aka</small> &nbsp;n4ryn<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="20px"></h3>
+<h3 align="center">Hello there, &nbsp;I’m Vinay<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="20px"></h3>
 
 <br>
 
