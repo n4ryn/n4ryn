@@ -19,19 +19,19 @@ I'm a <strong>Student</strong> and <strong>Developer</strong> who is ✨ passion
 
 <b>Languages:<b/> 
 
-![python](https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=F9BC2F) ![HTML5](https://img.shields.io/badge/html5-282828?style=for-the-badge&logo=html5&logoColor=F9BC2F) ![CSS3](https://img.shields.io/badge/css3-282828?style=for-the-badge&logo=css3&logoColor=F9BC2F) ![javascript](https://img.shields.io/badge/javascript-282828?&style=for-the-badge&logo=javascript&logoColor=F9BC2F) ![nodejs](https://img.shields.io/badge/node.js-282828?&style=for-the-badge&logo=node.js&logoColor=F9BC2F) ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-282828?style=for-the-badge&logo=database&logoColor=F9BC2F) ![C](https://img.shields.io/badge/C-282828?style=for-the-badge&logo=c&logoColor=F9BC2F)
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF) ![javascript](https://img.shields.io/badge/javascript-000000?&style=for-the-badge&logo=javascript&logoColor=FFFFFF) ![nodejs](https://img.shields.io/badge/node.js-000000?&style=for-the-badge&logo=node.js&logoColor=FFFFFF) ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=FFFFFF) ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF)
 
 <b>Libraries / Frameworks:</b> 
 
-![Reactjs](https://img.shields.io/badge/react-282828?&style=for-the-badge&logo=react&logoColor=F9BC2F) ![Express](https://img.shields.io/badge/Express.js-282828?style=for-the-badge&logo=express&logoColor=F9BC2F) ![NPM](https://img.shields.io/badge/npm-282828?style=for-the-badge&logo=npm&logoColor=F9BC2F) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-282828?style=for-the-badge&logo=tailwind-css&logoColor=F9BC2F)
+![Reactjs](https://img.shields.io/badge/react-000000?&style=for-the-badge&logo=react&logoColor=FFFFFF) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF) ![NPM](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=FFFFFF) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)
 
 <b>Databases:</b> 
 
-![MongoDB](https://img.shields.io/badge/MongoDB-282828?&style=for-the-badge&logo=mongodb&logoColor=F9BC2F) ![MySQL](https://img.shields.io/badge/MySQL-282828?style=for-the-badge&logo=mysql&logoColor=F9BC2F)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?&style=for-the-badge&logo=mongodb&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 
 <b>Application and Tools:</b> 
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-282828?style=for-the-badge&logo=visual-studio-code&logoColor=F9BC2F) ![Git](https://img.shields.io/badge/git-282828?style=for-the-badge&logo=git&logoColor=F9BC2F) ![Linux](https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=F9BC2F) ![Figma](https://img.shields.io/badge/Figma-282828?style=for-the-badge&logo=figma&logoColor=F9BC2F) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-282828?style=for-the-badge&logo=Adobe%20XD&logoColor=F9BC2F)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000000?style=for-the-badge&logo=Adobe%20XD&logoColor=FFFFFF)
 </p>
 
 
@@ -67,9 +67,9 @@ I'm a <strong>Student</strong> and <strong>Developer</strong> who is ✨ passion
 
   
 <p align = "center">
-<a  href="https://www.discord.com/users/709491555072868413/"  target="_blank"> <img  src="https://img.shields.io/badge/Discord-282828?&style=for-the-badge&logo=discord&logoColor=F9BC2F"  t=instagram  style="margin-bottom: 5px;" />  </a>
-<a  href="https://www.instagram.com/n4ryn._/"  target="_blank">  <img  src="https://img.shields.io/badge/instagram-282828?&style=for-the-badge&logo=instagram&logoColor=F9BC2F"  t=instagram  style="margin-bottom: 5px;" />  </a>
-<a  href="https://linkedin.com/in/n4ryn"  target="_blank">  <img  src="https://img.shields.io/badge/linkedin-282828?&style=for-the-badge&logo=linkedin&logoColor=F9BC2F"  style="margin-bottom: 5px;" />  </a>
+<a  href="https://www.discord.com/users/709491555072868413/"  target="_blank"> <img  src="https://img.shields.io/badge/Discord-000000?&style=for-the-badge&logo=discord&logoColor=FFFFFF"  t=instagram  style="margin-bottom: 5px;" />  </a>
+<a  href="https://www.instagram.com/n4ryn._/"  target="_blank">  <img  src="https://img.shields.io/badge/instagram-000000?&style=for-the-badge&logo=instagram&logoColor=FFFFFF"  t=instagram  style="margin-bottom: 5px;" />  </a>
+<a  href="https://linkedin.com/in/n4ryn"  target="_blank">  <img  src="https://img.shields.io/badge/linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=FFFFFF"  style="margin-bottom: 5px;" />  </a>
 </p>
 
 
