@@ -45,8 +45,8 @@ I'm a <strong>Student</strong> and <strong>Developer</strong> who is ✨ passion
 
 <a  href="https://github.com/n4ryn">
 
-<img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=gruvbox&hide_border=true" />
-<img  width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=n4ryn&theme=gruvbox&hide_border=true" />
+<img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=tokyonight&hide_border=true" />
+<img  width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=n4ryn&theme=tokyonight&hide_border=true" />
 
 </a>
 
@@ -54,7 +54,7 @@ I'm a <strong>Student</strong> and <strong>Developer</strong> who is ✨ passion
 
 <p align="center">
 
-<a  href="https://github.com/n4ryn"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n4ryn&theme=gruvbox&hide_border=true"  width="100%"  alt="Vinay Kumar"/></a>
+<a  href="https://github.com/n4ryn"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n4ryn&theme=tokyonight&hide_border=true"  width="100%"  alt="Vinay Kumar"/></a>
 
 </p>
 
