@@ -23,11 +23,7 @@ I'm a <strong>Student</strong> and <strong>Developer</strong> who is ✨ passion
 
 <b>Libraries / Frameworks:</b> 
 
-![Reactjs](https://img.shields.io/badge/react-1a1b27?&style=for-the-badge&logo=react&logoColor=FFFFFF) ![Express](https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=express&logoColor=FFFFFF) ![NPM](https://img.shields.io/badge/npm-1a1b27?style=for-the-badge&logo=npm&logoColor=FFFFFF) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)
-
-<b>Databases:</b> 
-
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?&style=for-the-badge&logo=mongodb&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Reactjs](https://img.shields.io/badge/react-1a1b27?&style=for-the-badge&logo=react&logoColor=FFFFFF) ![NPM](https://img.shields.io/badge/npm-1a1b27?style=for-the-badge&logo=npm&logoColor=FFFFFF) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)
 
 <b>Application and Tools:</b> 
 
