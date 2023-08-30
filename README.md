@@ -8,10 +8,6 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 
 </div>
 
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=n4ryn&style=for-the-badge&color=1a1b27" alt="Profile Views" />
-</div>
-
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center"><img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  width ="25"><b> Skills</b></h3>
@@ -90,4 +86,5 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 <a  href="https://www.discord.com/users/709491555072868413/"  target="_blank"> <img  src="https://img.shields.io/badge/Discord-1a1b27?&style=for-the-badge&logo=discord&logoColor=FFFFFF"  t=instagram  style="margin-bottom: 5px;" />  </a>
 <a  href="https://www.instagram.com/n4ryn._/"  target="_blank">  <img  src="https://img.shields.io/badge/instagram-1a1b27?&style=for-the-badge&logo=instagram&logoColor=FFFFFF"  t=instagram  style="margin-bottom: 5px;" />  </a>
 <a  href="https://linkedin.com/in/n4ryn"  target="_blank">  <img  src="https://img.shields.io/badge/linkedin-1a1b27?&style=for-the-badge&logo=linkedin&logoColor=FFFFFF"  style="margin-bottom: 5px;" />  </a>
+<img src="https://komarev.com/ghpvc/?username=n4ryn&style=for-the-badge&color=1a1b27" alt="Profile Views" />
 </p>
