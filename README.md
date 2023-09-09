@@ -32,9 +32,11 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 ![Express.js](https://img.shields.io/badge/Express.js-1a1b27?&style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1b27?&style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![React Native](https://img.shields.io/badge/React_Native-1a1b27?&style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Socket.io](https://img.shields.io/badge/Socket.io-1a1b27?style=for-the-badge&logo=socket.io&logoColor=FFFFFF)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)
 ![Material-UI](https://img.shields.io/badge/Material--UI-1a1b27?style=for-the-badge&logo=mui&logoColor=FFFFFF)
 ![Jest](https://img.shields.io/badge/Jest-1a1b27?style=for-the-badge&logo=Jest&logoColor=FFFFFF)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-1a1b27?style=for-the-badge&logo=testing-library&logoColor=FFFFFF)
 ![Swagger-UI](https://img.shields.io/badge/Swagger--ui-1a1b27?style=for-the-badge&logo=swagger&logoColor=FFFFFF)
 
 <b>Databases:</b>
