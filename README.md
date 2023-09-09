@@ -47,8 +47,11 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 <b>Application and Tools:</b>
 
 ![NPM](https://img.shields.io/badge/npm-1a1b27?style=for-the-badge&logo=npm&logoColor=FFFFFF)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/git-1a1b27?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Bitbucket](https://img.shields.io/badge/bitbucket-1a1b27?style=for-the-badge&logo=bitbucket&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=FFFFFF)
+![Jira](https://img.shields.io/badge/jira-1a1b27?style=for-the-badge&logo=jira&logoColor=FFFFFF)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 
 <b>Operating System:</b>
