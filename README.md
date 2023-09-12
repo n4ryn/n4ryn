@@ -54,6 +54,7 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 ![Jira](https://img.shields.io/badge/jira-1a1b27?style=for-the-badge&logo=jira&logoColor=FFFFFF)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 <b>Operating System:</b>
 
