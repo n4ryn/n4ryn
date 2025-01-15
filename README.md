@@ -64,7 +64,7 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 
 ![Linux](https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![Mac](https://img.shields.io/badge/mac%20os-1a1b27?style=for-the-badge&logo=apple&logoColor=FFFFFF)
-![Windows](https://img.shields.io/badge/Windows-1a1b27?style=for-the-badge&logo=windows&logoColor=FFFFFF)
+![Windows](https://img.shields.io/badge/Windows-1a1b27?style=for-the-badge&logo=windows11&logoColor=FFFFFF)
 
 </p>
 
