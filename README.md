@@ -44,7 +44,8 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 
 ![MySQL](https://custom-icon-badges.herokuapp.com/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![MongoDB](https://custom-icon-badges.herokuapp.com/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-![postgreSQL](https://custom-icon-badges.herokuapp.com/badge/postgresql-1a1b27?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![PostgreSQL](https://custom-icon-badges.herokuapp.com/badge/postgresql-1a1b27?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Redis](https://custom-icon-badges.herokuapp.com/badge/Redis-1a1b27?style=for-the-badge&logo=redis&logoColor=FFFFFF)
 
 <b>Application and Tools:</b>
 
