@@ -48,6 +48,7 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 
 <b>Application and Tools:</b>
 
+![Kafka](https://img.shields.io/badge/Kafka-1a1b27?style=for-the-badge&logo=apache-kafka&logoColor=FFFFFF)
 ![NPM](https://img.shields.io/badge/npm-1a1b27?style=for-the-badge&logo=npm&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/git-1a1b27?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-1a1b27?style=for-the-badge&logo=bitbucket&logoColor=FFFFFF)
