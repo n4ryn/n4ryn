@@ -40,6 +40,9 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-1a1b27?style=for-the-badge&logo=testing-library&logoColor=FFFFFF)
 ![Swagger-UI](https://img.shields.io/badge/Swagger--ui-1a1b27?style=for-the-badge&logo=swagger&logoColor=FFFFFF)
 ![JWT](https://img.shields.io/badge/JWT-1a1b27?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=FFFFFF)
+![Prisma](https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=Prisma&logoColor=FFFFFF)
+![Drizzle](https://img.shields.io/badge/drizzle-1a1b27?style=for-the-badge&logo=drizzle&logoColor=FFFFFF)
+
 
 <b>Databases:</b>
 
