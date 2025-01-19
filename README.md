@@ -23,7 +23,6 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-1a1b27?style=for-the-badge&logo=database&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/c%2B%2B-1a1b27?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![Rust](https://img.shields.io/badge/Rust-1a1b27?style=for-the-badge&logo=rust&logoColor=FFFFFF)
 
 <b>Libraries / Frameworks:</b>
 
