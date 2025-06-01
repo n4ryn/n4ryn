@@ -62,6 +62,9 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 ![Vercel](https://img.shields.io/badge/vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![AWS](https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge&logo=amazon-web-services&logoColor=FFFFFF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1b27?style=for-the-badge&logo=Cloudflare&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 
 <b>Operating System:</b>
 
