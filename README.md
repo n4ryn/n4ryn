@@ -148,9 +148,9 @@
 
 <h3 align="center">Pacman Contribution Graph 🍒</h3>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/n4ryn/n4ryn/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
-</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/n4ryn/n4ryn/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n4ryn/n4ryn/output/pacman-contribution-graph-dark.svg">
