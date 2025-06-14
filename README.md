@@ -15,7 +15,7 @@
 
 <br/>
 
-![Github Stats](https://pixel-profile.vercel.app/api/github-stats?username=n4ryn&theme=journey)
+<!-- ![Github Stats](https://pixel-profile.vercel.app/api/github-stats?username=n4ryn&theme=journey) -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -124,8 +124,8 @@
 
 <p align="center" >
   <a href="https://github.com/n4ryn">
-    <img width="36%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=cggf2l2oc3jlpwpfwk0p2wgjx&cover_image=true&theme=default&show_offline=true&background_color=transparent&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-    <img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=cggf2l2oc3jlpwpfwk0p2wgjx&count=5" />
+    <img width="24%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=cggf2l2oc3jlpwpfwk0p2wgjx&cover_image=true&theme=default&show_offline=true&background_color=transparent&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+    <img width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=cggf2l2oc3jlpwpfwk0p2wgjx&count=5" />
   </a>
 </p>
 
