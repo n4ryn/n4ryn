@@ -1,3 +1,5 @@
+<!--Replace <username> with your own GitHub username.-->
+
 <h3 align="center">
   Hello there, &nbsp;I’m Vinay&nbsp;
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
@@ -12,6 +14,8 @@
 </div>
 
 <br/>
+
+![Github Stats](https://pixel-profile.vercel.app/api/github-stats?username=n4ryn&theme=journey)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -106,6 +110,22 @@
 <p align="center">
   <a href="https://github.com/n4ryn">
     <img src="https://github-profile-trophy.vercel.app/?username=n4ryn&&theme=radical&no-frame=true&margin-w=4&no-bg=true&margin-w=15&margin-h=15&title=-Reviews,-Issues&column=-1" alt="n4ryn's GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+
+<h3 align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+  <img src="https://media.giphy.com/media/JujkU9Ovzk2i3iaYFA/giphy.gif" width="18px"> 
+  <b>Spotify Stats</b>
+</h3>
+
+<p align="center" >
+  <a href="https://github.com/n4ryn">
+    <img width="36%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=cggf2l2oc3jlpwpfwk0p2wgjx&cover_image=true&theme=default&show_offline=true&background_color=transparent&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+    <img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=cggf2l2oc3jlpwpfwk0p2wgjx&count=5" />
   </a>
 </p>
 
