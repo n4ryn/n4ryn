@@ -43,7 +43,6 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 ![Prisma](https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=Prisma&logoColor=FFFFFF)
 ![Drizzle](https://img.shields.io/badge/drizzle-1a1b27?style=for-the-badge&logo=drizzle&logoColor=FFFFFF)
 
-
 <b>Databases:</b>
 
 ![MySQL](https://custom-icon-badges.herokuapp.com/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
@@ -82,7 +81,7 @@ A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer
 
 <a  href="https://github.com/n4ryn">
 
-<img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=tokyonight&hide_border=true" />
+<img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&show=prs_merged_percentage" />
 <img  width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=n4ryn&theme=tokyonight&hide_border=true" />
 
 </a>
