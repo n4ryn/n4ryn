@@ -1,17 +1,16 @@
-![Github Stats](https://pixel-profile.vercel.app/api/github-stats?username=n4ryn&theme=road_trip)
-
-<h3 align="center">
-  Hello there, &nbsp;I’m Vinay&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-</h3>
-
-<br/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello%20there,%20I'm%20Vinay&section=header&reversal=false&textBg=false&animation=fadeIn&fontColor=FFF" width="60%" />
+</p>
 
 <div align="center">
   A <strong>Full Stack Developer</strong> who is ✨ passionate ✨ about computer science.  
   I'm building projects or learning something new almost every day.  
   I love to explore new technologies and solve real-life problems.
 </div>
+
+<br/>
+
+![Github Stats](https://pixel-profile.vercel.app/api/github-stats?username=n4ryn&theme=road_trip)
 
 <br/>
 
@@ -146,4 +145,4 @@
   <img src="https://komarev.com/ghpvc/?username=n4ryn&style=for-the-badge&color=1a1b27" alt="Profile Views" />
 </p>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
