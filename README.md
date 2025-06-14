@@ -1,4 +1,4 @@
-<!--Replace <username> with your own GitHub username.-->
+![Github Stats](https://pixel-profile.vercel.app/api/github-stats?username=n4ryn&theme=road_trip)
 
 <h3 align="center">
   Hello there, &nbsp;I’m Vinay&nbsp;
@@ -15,7 +15,7 @@
 
 <br/>
 
-<!-- ![Github Stats](https://pixel-profile.vercel.app/api/github-stats?username=n4ryn&theme=journey) -->
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
