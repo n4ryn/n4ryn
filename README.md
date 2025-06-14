@@ -83,14 +83,14 @@
 
 <p align="center">
   <a href="https://github.com/n4ryn">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&show=prs_merged_percentage" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=n4ryn&theme=tokyonight&hide_border=true&card_height=206" />
+    <img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&show=prs_merged_percentage" />
+    <img width="39.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=n4ryn&theme=tokyonight&hide_border=true&card_height=206" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/n4ryn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n4ryn&theme=tokyonight&hide_border=true" width="100%" alt="Vinay Kumar"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n4ryn&theme=tokyonight&hide_border=true" width="80%" alt="Vinay Kumar"/>
   </a>
 </p>
 
