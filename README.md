@@ -15,8 +15,6 @@
 
 <br/>
 
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
@@ -146,4 +144,9 @@
     <img src="https://img.shields.io/badge/linkedin-1a1b27?&style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=n4ryn&style=for-the-badge&color=1a1b27" alt="Profile Views" />
+</p>
+
+<h3 align="center">Pacman Contribution Graph 🍒</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/n4ryn/n4ryn/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </p>
