@@ -121,7 +121,7 @@
 
 <p align="center" >
   <a href="https://github.com/n4ryn">
-    <img width="24%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=cggf2l2oc3jlpwpfwk0p2wgjx&cover_image=true&theme=default&show_offline=true&background_color=transparent&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+    <img width="24%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=cggf2l2oc3jlpwpfwk0p2wgjx&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=false&bar_color=53b14f&bar_color_cover=false" />
     <img width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=cggf2l2oc3jlpwpfwk0p2wgjx&count=5" />
   </a>
 </p>
