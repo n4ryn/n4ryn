@@ -104,6 +104,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/n4ryn">
+    <img src="https://github-profile-trophy.vercel.app/?username=n4ryn&&theme=radical&no-frame=true&margin-w=4&no-bg=true&margin-w=15&margin-h=15&title=-Reviews,-Issues&column=-1" alt="n4ryn's GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
