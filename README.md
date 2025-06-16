@@ -80,7 +80,7 @@
 ### <p align="center"> <img src="https://media.giphy.com/media/JujkU9Ovzk2i3iaYFA/giphy.gif" width="22px" style="margin-bottom: -4px"> &nbsp; Spotify Stats</p>
 
 <p align="center" >
-  <img width="24%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=cggf2l2oc3jlpwpfwk0p2wgjx&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=false&bar_color=53b14f&bar_color_cover=false" style="background-color: #212121; border-radius: 6px;" />
+  <img width="24%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=cggf2l2oc3jlpwpfwk0p2wgjx&cover_image=true&theme=default&show_offline=false&&interchange=false&bar_color=53b14f&bar_color_cover=false" style="background-color: #212121; border-radius: 6px;" />
   <img width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=cggf2l2oc3jlpwpfwk0p2wgjx&count=5" />
 </p>
 
