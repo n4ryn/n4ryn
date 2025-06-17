@@ -18,7 +18,7 @@
 ![CSS3](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-3e3eeb?style=for-the-badge&logo=database&logoColor=FFFFFF)
 
 > ### Libraries / Frameworks:
