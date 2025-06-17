@@ -1,6 +1,4 @@
-<!--# <p align="center">Welcome, I'm Vinay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></p>-->
-
-# <div align="center"><img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Welcome,%20I'm%20Vinay&fontColor=6B13D6" width="60%"/></div>
+# <p align="center">Welcome, I'm Vinay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></p>
 
 > A curious <strong>Full Stack Developer</strong> who loves solving real-world problems with code. Whether it's building scalable web apps or exploring new frameworks, I'm always up for a challenge. Currently learning, building, and having fun doing both! 🚀
 
