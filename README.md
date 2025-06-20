@@ -67,6 +67,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n4ryn&theme=dark&hide_border=true" width="80%" alt="n4ryn's github stats"/>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=n4ryn&&theme=algolia&no-frame=false&margin-w=4&no-bg=false&margin-w=15&margin-h=15&title=-Reviews,-Issues&column=-1" alt="n4ryn's gitHub trophies" />
 </p> -->
