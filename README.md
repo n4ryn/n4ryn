@@ -72,6 +72,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=n4ryn&&theme=algolia&no-frame=false&margin-w=4&no-bg=false&margin-w=15&margin-h=15&title=-Reviews,-Issues&column=-1" alt="n4ryn's gitHub trophies" />
 </p> -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ### <p align="center"> <img src="https://media.giphy.com/media/JujkU9Ovzk2i3iaYFA/giphy.gif" width="22px" style="margin-bottom: -4px"> &nbsp; Spotify Stats</p>
