@@ -56,7 +56,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-### <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" style="margin-bottom: -4px"> &nbsp; Github Stats</p>
+### <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" style="margin-bottom: -4px"> &nbsp; Github & WakaTime Stats</p>
 
 
 <p align="center">
@@ -72,6 +72,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=n4ryn&&theme=algolia&no-frame=false&margin-w=4&no-bg=false&margin-w=15&margin-h=15&title=-Reviews,-Issues&column=-1" alt="n4ryn's gitHub trophies" />
 </p> -->
 
+<p align="center">WakaTime since 14th June 2025</p>
+
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -83,6 +86,7 @@ CSS          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
