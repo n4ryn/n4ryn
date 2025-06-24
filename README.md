@@ -73,6 +73,15 @@
 </p> -->
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   24 hrs 56 mins  ████████████████▓░░░░░░░░   66.02 %
+JavaScript   4 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+YAML         2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+JSON         1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+CSS          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
