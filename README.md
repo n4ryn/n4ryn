@@ -58,9 +58,10 @@
 
 ### <p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" style="margin-bottom: -4px"> &nbsp; Github Stats</p>
 
+
 <p align="center">
   <img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=n4ryn&show_icons=true&theme=dark&hide_border=true&hide=contribs&show=prs_merged_percentage" alt="n4ryn's github stats"/>
-  <img width="39.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=n4ryn&theme=dark&hide_border=true&card_height=206" alt="n4ryn's github stats"/>
+  <img width="39.5%" src="https://github-readme-streak-stats-eight.vercel.app/?user=n4ryn&theme=dark&hide_border=true&card_height=206&ring=79FF97&fire=79FF97&currStreakLabel=79FF97" alt="n4ryn's github stats"/>
 </p>
 
 <p align="center">
