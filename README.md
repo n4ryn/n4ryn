@@ -72,7 +72,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=n4ryn&&theme=algolia&no-frame=false&margin-w=4&no-bg=false&margin-w=15&margin-h=15&title=-Reviews,-Issues&column=-1" alt="n4ryn's gitHub trophies" />
 </p> -->
 
-<p align="center">WakaTime since 14th June 2025</p>
+<p align="center">Weekly WakaTime</p>
 
 <div align="center">
   
