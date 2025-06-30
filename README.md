@@ -76,7 +76,7 @@
 
 <!--<div align="center">-->
   
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 
 ```txt
 JavaScript   3 hrs 33 mins   ███████████░░░░░░░░░░░░░░   43.39 %
@@ -86,7 +86,7 @@ JSON         40 mins         ██░░░░░░░░░░░░░░░
 Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 
 </div>
 
